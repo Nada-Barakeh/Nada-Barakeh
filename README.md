@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hallo, ich bin Nada Barakeh!
 
-<!--
-**Nada-Barakeh/Nada-Barakeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  Über mich (About Me)
+-  Studentin der Informatik (B.Sc.) an der HHU Düsseldorf.
+-  Ich lerne aktuell Java, objektorientierte Programmierung und Git.
+-  Mein Ziel: mein Studium erfolgreich abschließen.
 
-Here are some ideas to get you started:
+###  Technologien (Technologies)
+- **Sprachen:** Java, Python, C, SQL
+- **Frameworks & Tools:** IntelliJ IDEA, Git, GitHub, Gradle, Spring Boot (Grundkenntnisse)
+- **Konzepte:** OOP, Unit-Tests (JUnit), Streams, Clean Code, Debugging
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Meine Projekte (My Projects)
+- [**Advanced Calculator**](https://github.com/Nada-Barakeh/AdvancedCalculator): Ein wissenschaftlicher Taschenrechner in Java.
+- [**To-Do List App**](https://github.com/Nada-Barakeh/ToDoList-App): Eine Aufgabenverwaltung mit JUnit-Tests.
+
+###  Kontakt (Contact)
+- E-Mail: nadaahmadbarakeh@gmail.com
